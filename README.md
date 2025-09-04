@@ -1,3 +1,11 @@
+
+
+
+<img width="3404" height="1674" alt="Screenshot" src="https://github.com/user-attachments/assets/7332f7fe-ca17-43f0-9c0f-fb7751542a19" />
+
+
+
+
 Readme:
 Project Description
 This project implements a PDF-based chatbot using Streamlit and Langchain. It allows users to upload a PDF document, processes its content by splitting into chunks, creates embeddings, and answers user questions based on the document's content.
